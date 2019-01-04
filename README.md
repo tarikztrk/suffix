@@ -1,0 +1,2 @@
+# suffix
+a simple suffixtrree
